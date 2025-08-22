@@ -16,8 +16,8 @@
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://cyprus-synchronous.b-cdn.net/0.11.23.zip",
-        "DownloadLinkTesting": "https://cyprus-synchronous.b-cdn.net/0.11.23.zip",
-        "DownloadLinkUpdate": "https://cyprus-synchronous.b-cdn.net/0.11.23.zip"
+        "DownloadLinkInstall": "https://github.com/kabojnk/client/releases/download/0.11.23/0.11.23.zip",
+        "DownloadLinkTesting": "https://github.com/kabojnk/client/releases/download/0.11.23/0.11.23.zip",
+        "DownloadLinkUpdate": "https://github.com/kabojnk/client/releases/download/0.11.23/0.11.23.zip"
       }
 ]
