@@ -12,7 +12,7 @@
         ],
         "DalamudApiLevel": 13,
         "LoadPriority": 0,
-        "IconUrl": "https://github.com/kabojnk/repo/blob/main/CyprusSynchronos/images/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/kabojnk/repo/refs/heads/main/CyprusSynchronos/images/icon.png",
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
