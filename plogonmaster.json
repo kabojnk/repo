@@ -1,23 +1,23 @@
 [
     {
-        "Author": "darkarchon",
-        "Name": "Mare Synchronos",
-        "InternalName": "MareSynchronos",
-        "AssemblyVersion": "0.11.22",
+        "Author": "Theodore Danson",
+        "Name": "Cyprus Synchronos",
+        "InternalName": "CyprusSynchronos",
+        "AssemblyVersion": "0.11.23",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/MareSynchronos/client",
+        "RepoUrl": "https://github.com/kabojnk/client",
         "Tags": [
           "customization"
         ],
         "DalamudApiLevel": 13,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/MareSynchronos/repo/main/MareSynchronos/images/icon.png",
+        "IconUrl": "https://github.com/kabojnk/repo/blob/main/CyprusSynchronos/images/icon.png",
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://cf.maresynchronos.com/release/0.11.22.zip",
-        "DownloadLinkTesting": "https://cf.maresynchronos.com/release/0.11.22.zip",
-        "DownloadLinkUpdate": "https://cf.maresynchronos.com/update/0.11.22.zip"
+        "DownloadLinkInstall": "https://cyprus-synchronous.b-cdn.net/0.11.23.zip",
+        "DownloadLinkTesting": "https://cyprus-synchronous.b-cdn.net/0.11.23.zip",
+        "DownloadLinkUpdate": "https://cyprus-synchronous.b-cdn.net/0.11.23.zip"
       }
 ]
